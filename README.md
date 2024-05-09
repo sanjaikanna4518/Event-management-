@@ -1,2 +1,2 @@
-# Event-management-
-My first project
+#  About my first project on GitHub.
+My project focuses on event management, crafted solely using HTML. It seamlessly organizes events, displaying crucial details attractively. Through HTML's versatility, I've designed intuitive interfaces for event registration and information dissemination. Embracing simplicity, it ensures smooth navigation for users of all backgrounds. HTML's power enables dynamic updates and interactive features, enhancing the event experience. In essence, my project demonstrates HTML's prowess in efficient event management solutions.
